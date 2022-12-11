@@ -8,4 +8,4 @@ export function sayHello (name) {
         throw "Parameter name must be an instance of String.";
 };
 
-//console.log(sayHello("Manu"));
+console.log("Application built successfully.");
